@@ -24,7 +24,7 @@ The application features a tab system for easy navigation between the two functi
 
 ## Live Demo
 
-Explore the live demo of the Weather App  [here](https://vijayaadamane.github.io/WeatherApp/).
+Explore the live demo of the Weather App  [here](https://vijayaadamane.github.io/Weather-App/).
 
 ## Preview
 
